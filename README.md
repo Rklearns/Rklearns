@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishit Kar</h1>
-<h3 align="center">I am  passionate about Machine Learning and competitive programming </h3>
+<h3 align="center">I am  passionate about Developing, Learning Machine Learning and love Compeititve Programming</h3>
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Skicit Learn,Regression,Probability**
+- 🌱 I’m currently learning **NLP,Deep learning,GenAI,FlaskP**
 
 - 📫 How to reach me **emailrishitkar@gmail.com**
 
