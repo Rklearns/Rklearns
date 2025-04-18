@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **NLP,Deep learning,GenAI,FlaskP**
+- 🌱 I’m currently learning **NLP,Deep learning,GenAI,**
 
 - 📫 How to reach me **emailrishitkar@gmail.com**
 
