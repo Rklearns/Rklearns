@@ -23,24 +23,6 @@ cat skills → Technical Skills
 contact → How to Reach Me
 ```
 
-<style>
-@keyframes scan {
-  0% { left: -100%; opacity: 0; }
-  50% { opacity: 1; }
-  100% { left: 100%; opacity: 0; }
-}
-@keyframes glow {
-  0%, 100% { box-shadow: 0 0 10px currentColor; }
-  50% { box-shadow: 0 0 25px currentColor, 0 0 35px currentColor; }
-}
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
-
-</div>
-
 ## 💻 Interactive Terminal Commands
 
 <div style="display: flex; justify-content: center; gap: 15px; margin: 30px 0; flex-wrap: wrap; animation: fadeIn 1s ease-out 0.5s both;">
