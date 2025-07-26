@@ -1,10 +1,18 @@
-# Rishit Kar — Problem Solver
+<div align="center">
+
+<h1>Rishit Kar — Problem Solver</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=initializing+terminal...;loading+portfolio...;rishit%24;whoami;ready+for+commands!" alt="terminal-init" />
 
-<div style="background: linear-gradient(135deg, #000000 0%, #0a0a0a 50%, #111111 100%); padding: 20px; border-radius: 12px; border: 2px solid #00ff41; font-family: 'JetBrains Mono', monospace; box-shadow: 0 0 40px rgba(0,255,65,0.6), inset 0 0 20px rgba(0,255,65,0.1); position: relative; overflow: hidden;">
+<div style="background: linear-gradient(135deg, #000000 0%, #0a0a0a 50%, #111111 100%); padding: 20px; border-radius: 12px; border: 2px solid #00ff41; font-family: 'JetBrains Mono', monospace; box-shadow: 0 0 40px rgba(0,255,65,0.6), inset 0 0 20px rgba(0,255,65,0.1); position: relative; overflow: hidden; width: fit-content;">
 
-<div style="position: absolute; top: 0; left: -100%; width: 100%; height: 2px; background: linear-gradient(90deg, transparent, #00ff41, transparent); animation: scan 2s linear infinite;"></div>
+  <div style="position: absolute; top: 0; left: -100%; width: 100%; height: 2px; background: linear-gradient(90deg, transparent, #00ff41, transparent); animation: scan 2s linear infinite;"></div>
+
+  <!-- Any inner text can go here -->
+
+</div>
+
+</div>
 
 ```bash
 > Coder | CP Enthusiast | ML | 9.15 CGPA
