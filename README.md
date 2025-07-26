@@ -25,16 +25,6 @@ contact → How to Reach Me
 
 ## 💻 Interactive Terminal Commands
 
-<div style="display: flex; justify-content: center; gap: 15px; margin: 30px 0; flex-wrap: wrap; animation: fadeIn 1s ease-out 0.5s both;">
-
-[![whoami](https://img.shields.io/badge/%24%20whoami-About_Me-2ea043?style=for-the-badge&logo=terminal&logoColor=white&labelColor=1a1a1a)](#i)
-[![cat skills](https://img.shields.io/badge/%24%20cat%20skills-Tech_Stack-ffd43b?style=for-the-badge&logo=code&logoColor=black&labelColor=1a1a1a)](#cat)
-[![./cp](https://img.shields.io/badge/%24%20./cp-CP_Stats-e74c3c?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1a1a1a)](#cp)
-[![contact](https://img.shields.io/badge/%24%20contact-Let's_Connect-8b5cf6?style=for-the-badge&logo=mail&logoColor=white&labelColor=1a1a1a)](#contact)
-
-</div>
-
-</div>
 
 ---
 
