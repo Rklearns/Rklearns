@@ -7,12 +7,20 @@
 <div style="background: #000; padding: 15px; border-radius: 8px; border: 1px solid #00ff41; font-family: 'JetBrains Mono', monospace; box-shadow: 0 0 30px rgba(0,255,65,0.4);">
 
 ```bash
-> ML Engineer | CP Enthusiast | 9.14 CGPA
+> Coder | CP Enthusiast | ML | 9.15 CGPA
 > 1244 Pupil CF | 3-Star CC | 130+ LC
 > Mumbai -  Available -  Building Cool Stuff
 ```
 
+```bash
+Navigate using the commands below (or just click the sections!):
+
+whoami → About Me
+cat skills → Technical Skills
+./cp → Competitive Programming Stats
+contact → How to Reach Me
 </div>
+```
 
 [![i](https://img.shields.io/badge/i-2ea043?style=flat-square)](#i)
 [![cat](https://img.shields.io/badge/cat-ffd43b?style=flat-square&logo=code)](#cat)
