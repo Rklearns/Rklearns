@@ -1,6 +1,6 @@
-<div align="center">
 
-# 🎮 Rishit Kar — Problem Solver
+
+#🎮 Rishit Kar — Problem Solver
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=initializing+terminal...;loading+portfolio...;rishit%24;whoami;ready+for+commands!" alt="terminal-init" />
 
