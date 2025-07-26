@@ -1,10 +1,12 @@
 <div align="center">
 
-# Rishit Kar 
+# 🎮 Rishit Kar — Problem Solver
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=initializing+terminal...;loading+portfolio...;rishit%24;whoami;ready+for+commands!" alt="terminal-init" />
 
-<div style="background: #000; padding: 15px; border-radius: 8px; border: 1px solid #00ff41; font-family: 'JetBrains Mono', monospace; box-shadow: 0 0 30px rgba(0,255,65,0.4);">
+<div style="background: linear-gradient(135deg, #000000 0%, #0a0a0a 50%, #111111 100%); padding: 20px; border-radius: 12px; border: 2px solid #00ff41; font-family: 'JetBrains Mono', monospace; box-shadow: 0 0 40px rgba(0,255,65,0.6), inset 0 0 20px rgba(0,255,65,0.1); position: relative; overflow: hidden;">
+
+<div style="position: absolute; top: 0; left: -100%; width: 100%; height: 2px; background: linear-gradient(90deg, transparent, #00ff41, transparent); animation: scan 2s linear infinite;"></div>
 
 ```bash
 > Coder | CP Enthusiast | ML | 9.15 CGPA
@@ -19,13 +21,36 @@ whoami → About Me
 cat skills → Technical Skills
 ./cp → Competitive Programming Stats
 contact → How to Reach Me
-</div>
 ```
 
-[![i](https://img.shields.io/badge/i-2ea043?style=flat-square)](#i)
-[![cat](https://img.shields.io/badge/cat-ffd43b?style=flat-square&logo=code)](#cat)
-[![cp](https://img.shields.io/badge/cp-e74c3c?style=flat-square&logo=trophy)](#cp)
-[![@](https://img.shields.io/badge/@-8b5cf6?style=flat-square&logo=mail)](#contact)
+<style>
+@keyframes scan {
+  0% { left: -100%; opacity: 0; }
+  50% { opacity: 1; }
+  100% { left: 100%; opacity: 0; }
+}
+@keyframes glow {
+  0%, 100% { box-shadow: 0 0 10px currentColor; }
+  50% { box-shadow: 0 0 25px currentColor, 0 0 35px currentColor; }
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
+
+</div>
+
+## 💻 Interactive Terminal Commands
+
+<div style="display: flex; justify-content: center; gap: 15px; margin: 30px 0; flex-wrap: wrap; animation: fadeIn 1s ease-out 0.5s both;">
+
+[![whoami](https://img.shields.io/badge/%24%20whoami-About_Me-2ea043?style=for-the-badge&logo=terminal&logoColor=white&labelColor=1a1a1a)](#i)
+[![cat skills](https://img.shields.io/badge/%24%20cat%20skills-Tech_Stack-ffd43b?style=for-the-badge&logo=code&logoColor=black&labelColor=1a1a1a)](#cat)
+[![./cp](https://img.shields.io/badge/%24%20./cp-CP_Stats-e74c3c?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1a1a1a)](#cp)
+[![contact](https://img.shields.io/badge/%24%20contact-Let's_Connect-8b5cf6?style=for-the-badge&logo=mail&logoColor=white&labelColor=1a1a1a)](#contact)
+
+</div>
 
 </div>
 
@@ -78,10 +103,10 @@ public class SkillMatrix {
         programming.put("C", "██████████████░░░░░░░ 70%");
         
         // Technologies
+        Map<String, String> technologies = new HashMap<>();
         technologies.put("ML Stack", "████████████████████░ 90%");
         technologies.put("Problem Solving", "████████████████████░ 90%");
                
-        
         
     }
 }
@@ -96,7 +121,7 @@ public class SkillMatrix {
 
 <div style="background: linear-gradient(135deg, #220000, #330000); border: 2px solid #e74c3c; border-radius: 10px; padding: 20px; margin: 15px 0;">
 
-```java
+```cpp
 public class CompetitiveStats {
     public static void main(String[] args) {
         // 🏆 Competitive Programming Statistics
@@ -121,7 +146,6 @@ public class CompetitiveStats {
         System.out.println("LC: leetcode.com/u/Rkstriker");
     }
 }
-
 ```
 
 </div>
@@ -173,4 +197,6 @@ public class CompetitiveStats {
 <img src="https://komarev.com/ghpvc/?username=Rklearns&color=00ff41&style=flat" />
 
 </div>
+```
+
 
