@@ -6,7 +6,7 @@
 
 <div style="background: #000; padding: 15px; border-radius: 8px; border: 1px solid #00ff41; font-family: 'JetBrains Mono', monospace; box-shadow: 0 0 30px rgba(0,255,65,0.4);">
 
-```
+```bash
 > ML Engineer | CP Enthusiast | 9.14 CGPA
 > 1244 Pupil CF | 3-Star CC | 130+ LC
 > Mumbai -  Available -  Building Cool Stuff
@@ -15,7 +15,6 @@
 </div>
 
 [![i](https://img.shields.io/badge/i-2ea043?style=flat-square)](#i)
-[![ls](https://img.shields.io/badge/ls-fd7e14?style=flat-square)](#ls)
 [![cat](https://img.shields.io/badge/cat-ffd43b?style=flat-square&logo=code)](#cat)
 [![cp](https://img.shields.io/badge/cp-e74c3c?style=flat-square&logo=trophy)](#cp)
 [![@](https://img.shields.io/badge/@-8b5cf6?style=flat-square&logo=mail)](#contact)
@@ -30,7 +29,7 @@
 
 <div style="background: linear-gradient(135deg, #001100, #002200); border: 2px solid #2ea043; border-radius: 10px; padding: 20px; margin: 15px 0;">
 
-```
+```python
 # 👤 About Me - Developer Profile
 class Developer:
     def __init__(self):
@@ -52,52 +51,13 @@ print("Building cool ML projects and solving coding problems!")
 </div>
 </details>
 
-<a name="ls"></a>
-<details>
-<summary><kbd style="background: #fd7e14; color: white; padding: 8px 16px; border-radius: 6px; font-weight: bold;">ls projects/</kbd></summary>
-
-<div style="background: linear-gradient(135deg, #220800, #331100); border: 2px solid #fd7e14; border-radius: 10px; padding: 20px; margin: 15px 0;">
-
-```
-# 🚀 My Project Portfolio
-projects = {
-    "reliable_udp": {
-        "description": "Custom UDP Protocol",
-        "performance": "5.51 MB/s throughput",
-        "tech": "C Programming"
-    },
-    "pneumonia_ai": {
-        "description": "Medical AI Diagnosis",
-        "accuracy": "91.98% test accuracy",
-        "tech": "TensorFlow"
-    },
-    "reddit_sentiment": {
-        "description": "AI Sentiment Analysis",
-        "capacity": "10k+ comments processed",
-        "tech": "NLP"
-    },
-    "gesture_control": {
-        "description": "Hand Gesture Volume Control",
-        "accuracy": "95% recognition rate",
-        "tech": "OpenCV"
-    }
-}
-
-for name, details in projects.items():
-    print(f"📦 {name}: {details['description']}")
-    print(f"   ⚡ {details.get('performance', details.get('accuracy', details['capacity']))}")
-```
-
-</div>
-</details>
-
 <a name="cat"></a>
 <details>
 <summary><kbd style="background: #ffd43b; color: black; padding: 8px 16px; border-radius: 6px; font-weight: bold;">cat skills</kbd></summary>
 
 <div style="background: linear-gradient(135deg, #1a1a00, #2d2d00); border: 2px solid #ffd43b; border-radius: 10px; padding: 20px; margin: 15px 0;">
 
-```
+```java
 // 💻 Technical Skills Dashboard
 import java.util.*;
 
@@ -110,22 +70,11 @@ public class SkillMatrix {
         programming.put("C", "██████████████░░░░░░░ 70%");
         
         // Technologies
-        Map<String, String> technologies = new HashMap<>();
         technologies.put("ML Stack", "████████████████████░ 90%");
-        technologies.put("TensorFlow", "████████████████████░ 90%");
-        technologies.put("OpenCV", "████████████████░░░░░ 80%");
+        technologies.put("Problem Solving", "████████████████████░ 90%");
+               
         
-        System.out.println("🎯 My Technical Expertise:");
         
-        System.out.println("\n📂 PROGRAMMING:");
-        for (Map.Entry<String, String> skill : programming.entrySet()) {
-            System.out.println("  " + skill.getKey() + ": " + skill.getValue());
-        }
-        
-        System.out.println("\n📂 TECHNOLOGIES:");
-        for (Map.Entry<String, String> skill : technologies.entrySet()) {
-            System.out.println("  " + skill.getKey() + ": " + skill.getValue());
-        }
     }
 }
 ```
@@ -139,40 +88,32 @@ public class SkillMatrix {
 
 <div style="background: linear-gradient(135deg, #220000, #330000); border: 2px solid #e74c3c; border-radius: 10px; padding: 20px; margin: 15px 0;">
 
-```
-#include <iostream>
-#include <map>
-#include <string>
-using namespace std;
+```java
+public class CompetitiveStats {
+    public static void main(String[] args) {
+        // 🏆 Competitive Programming Statistics
+        String[] platforms = {"Codeforces", "CodeChef", "LeetCode"};
+        int[] scores = {1244, 1606, 130};
+        String[] titles = {"Pupil", "3-Star", "Problems Solved"};
 
-int main() {
-    // 🏆 Competitive Programming Statistics
-    map<string, pair<int, string>> platforms = {
-        {"Codeforces", {1244, "Pupil"}},
-        {"CodeChef", {1606, "3-Star"}},
-        {"LeetCode", {130, "Problems Solved"}}
-    };
-    
-    cout << "🏆 COMPETITIVE PROGRAMMING STATS:" << endl;
-    cout << "=================================" << endl;
-    
-    for (auto& platform : platforms) {
-        cout << "🤖 " << platform.first << ": " 
-             << platform.second.first << " (" 
-             << platform.second.second << ")" << endl;
+        System.out.println("🏆 COMPETITIVE PROGRAMMING STATS:");
+        System.out.println("=================================");
+
+        for (int i = 0; i < platforms.length; i++) {
+            System.out.println("🤖 " + platforms[i] + ": " + scores[i] + " (" + titles[i] + ")");
+        }
+
+        System.out.println("\n📊 Total Problems Solved: 300+");
+        System.out.println("🎪 Achievement: CodeUncode Organizer");
+
+        // Platform Links
+        System.out.println("\n🔗 Profile Links:");
+        System.out.println("CF: codeforces.com/profile/emailrishitkar");
+        System.out.println("CC: codechef.com/users/rkstriker");
+        System.out.println("LC: leetcode.com/u/Rkstriker");
     }
-    
-    cout << "\n📊 Total Problems Solved: 300+" << endl;
-    cout << "🎪 Achievement: CodeUncode Organizer" << endl;
-    
-    // Platform Links
-    cout << "\n🔗 Profile Links:" << endl;
-    cout << "CF: codeforces.com/profile/emailrishitkar" << endl;
-    cout << "CC: codechef.com/users/rkstriker" << endl;
-    cout << "LC: leetcode.com/u/Rkstriker" << endl;
-    
-    return 0;
 }
+
 ```
 
 </div>
@@ -184,7 +125,7 @@ int main() {
 
 <div style="background: linear-gradient(135deg, #1a0033, #2d0066); border: 2px solid #8b5cf6; border-radius: 10px; padding: 20px; margin: 15px 0;">
 
-```
+```json
 {
   "contact_info": {
     "email": "emailrishitkar@gmail.com",
@@ -224,14 +165,4 @@ int main() {
 <img src="https://komarev.com/ghpvc/?username=Rklearns&color=00ff41&style=flat" />
 
 </div>
-```
-
-## ✨ Updated Language Distribution:
-
-🐍 **Python** - whoami & projects sections  
-☕ **Java** - skills section (replaced JavaScript)  
-⚡ **C++** - competitive programming section  
-📝 **JSON** - contact section  
-
-Now your skills section uses **Java syntax highlighting** with proper HashMap implementation, making it look more professional and aligned with your competitive programming background! 🚀✨
 
