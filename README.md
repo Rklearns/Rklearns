@@ -31,72 +31,34 @@ contact → How to Reach Me
 
 <div align="center">
 
-<style>
-  .tech-icons img {
-    width: 50px !important;
-    height: 50px !important;
-    margin: 8px 12px;
-    display: inline-block;
-  }
-  
-  .tech-icons {
-    line-height: 2.5;
-  }
-  
-  @media (max-width: 600px) {
-    .tech-icons img {
-      width: 40px !important;
-      height: 40px !important;
-      margin: 6px 8px;
-    }
-  }
-</style>
-
-<div class="tech-icons">
-
-<!-- Row 1: Programming Languages -->
-<img src="https://skillicons.dev/icons?i=python" alt="python" />
-<img src="https://skillicons.dev/icons?i=java" alt="java" />
-<img src="https://skillicons.dev/icons?i=c" alt="c" />
-<img src="https://skillicons.dev/icons?i=javascript" alt="javascript" />
-<img src="https://skillicons.dev/icons?i=html" alt="html" />
-<img src="https://skillicons.dev/icons?i=css" alt="css" />
-
-<br>
-
-<!-- Row 2: ML & Frameworks -->
-<img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" />
-<img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" />
-<img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" />
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" />
-
-<br>
-
-<!-- Row 3: Databases & Tools -->
-<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />
-<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" />
-<img src="https://skillicons.dev/icons?i=git" alt="git" />
-<img src="https://skillicons.dev/icons?i=github" alt="github" />
-<img src="https://skillicons.dev/icons?i=vscode" alt="vscode" />
-
-<br>
-
-<!-- Row 4: Cloud & Additional Tools -->
-<img src="https://skillicons.dev/icons?i=docker" alt="docker" />
-<img src="https://skillicons.dev/icons?i=vercel" alt="vercel" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="streamlit" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" />
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="python" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="java" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="c" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="javascript" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="html" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="css" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="tensorflow" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="pytorch" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="fastapi" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="mysql" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="mongodb" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="git" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="github" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="vscode" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="docker" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="vercel" style="margin: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="pandas" style="margin: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="numpy" style="margin: 8px;" />
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" alt="seaborn" style="margin: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" height="50" alt="streamlit" style="margin: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" alt="azure" style="margin: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="visualstudio" style="margin: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="scikitlearn" style="margin: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="linkedin" style="margin: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="sqlite" style="margin: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50" alt="latex" style="margin: 8px;" />
 
 </div>
-
-</div>
-
-
 
 ## 💻 Interactive Terminal Commands
 
