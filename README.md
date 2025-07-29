@@ -188,6 +188,7 @@ public class CompetitiveStats {
 ```
 
 </div>
+</details>
 
 <div align="center">
 
