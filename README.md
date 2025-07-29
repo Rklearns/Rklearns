@@ -31,29 +31,28 @@ contact → How to Reach Me
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center" style="line-height: 3;">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,tensorflow,pytorch,fastapi,mysql" alt="Tech Stack Row 1" style="width:60px; height:60px; margin: 0 15px;" />
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,docker,vercel" alt="Tech Stack Row 2" style="width:60px; height:60px; margin: 0 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="pandas" style="margin: 0 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="numpy" style="margin: 0 15px;" />
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60" alt="seaborn" style="margin: 0 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" height="60" alt="streamlit" style="margin: 0 15px;" />
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,tensorflow,pytorch,fastapi,mysql" alt="Tech Stack Row 1" />
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60" alt="azure" style="margin: 0 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60" alt="visualstudio" style="margin: 0 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" alt="scikitlearn" style="margin: 0 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="linkedin" style="margin: 0 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" alt="sqlite" style="margin: 0 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="60" height="60" alt="latex" style="margin: 0 15px;" />
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,docker,vercel" alt="Tech Stack Row 2" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy" />
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="seaborn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" height="45" alt="streamlit" />
+
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="azure" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45" alt="visualstudio" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikitlearn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="linkedin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="sqlite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45" alt="latex" />
 
 </div>
-
 
 
 ## 💻 Interactive Terminal Commands
@@ -190,6 +189,19 @@ public class CompetitiveStats {
 
 </div>
 </details>
+
+<a name="snake"></a>
+<details>
+<summary><kbd style="background: #ff6b35; color: white; padding: 8px 16px; border-radius: 6px; font-weight: bold;">./snake</kbd></summary>
+
+<div style="background: linear-gradient(135deg, #331100, #442200); border: 2px solid #ff6b35; border-radius: 10px; padding: 20px; margin: 15px 0;">
+
+<div align="center">
+
+## 🐍 Snake Game
+*Challenge yourself while browsing my profile!*
+
+![Snake Game](https://github.com/Rklearns/Rklearns/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
