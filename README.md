@@ -196,134 +196,60 @@ public class CompetitiveStats {
 
 ![Snake Game](https://github.com/Rklearns/Rklearns/blob/output/github-contribution-grid-snake-dark.svg)
 
+
 **Current Status:** [ GAME LOADED ]  
 **Your Mission:** Survive and thrive! 🚀
 
 </div>
-
 <div align="center">
 
-## 📊 Enhanced GitHub Statistics & Analytics
+## 📊 GitHub Statistics & Analytics
 
-<!-- Main Stats Grid -->
-<table align="center">
-<tr>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rklearns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&border_radius=10" height="195" />
-
-</td>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rklearns&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&border_radius=10&langs_count=8" height="195" />
-
-</td>
-</tr>
-</table>
-
-<!-- Streak & Activity Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rklearns&theme=tokyonight&hide_border=true&background=1a1b27&currStreakLabel=70a5fd&sideLabels=ffffff&currStreakNum=70a5fd&dates=ffffff&sideNums=70a5fd&fire=ff9500&ring=70a5fd&border_radius=10" height="170" />
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rklearns&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd&border_radius=10" width="95%" height="320" />
-
-<!-- Advanced Stats Row -->
-<table align="center" style="margin-top: 20px;">
-<tr>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rklearns&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&border_radius=10&layout=compact" height="180" />
-
-</td>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rklearns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&border_radius=10&count_private=true&include_all_commits=true&custom_title=Complete GitHub Stats" height="180" />
-
-</td>
-</tr>
-</table>
-
-<!-- Repository Showcase -->
-<table align="center" style="margin-top: 20px;">
-<tr>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rklearns&repo=your-best-repo&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&border_radius=10" height="120" />
-
-</td>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rklearns&repo=another-great-repo&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&border_radius=10" height="120" />
-
-</td>
-</tr>
-</table>
-
-<!-- Trophies Collection -->
-### 🏆 Achievement Showcase
-<img src="https://github-profile-trophy.vercel.app/?username=Rklearns&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=3&column=6&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&bg_color=1a1b27" />
-
-<!-- Detailed Metrics -->
-<table align="center" style="margin-top: 25px;">
-<tr>
-<td align="center">
-
-**📈 Contribution Metrics**
-<img src="https://github-readme-stats.vercel.app/api?username=Rklearns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&border_radius=10&hide=prs,issues&show=reviews,discussions_started,discussions_answered" height="150" />
-
-</td>
-<td align="center">
-
-**🔥 Coding Activity**
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rklearns&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&border_radius=10&show_icons=true&custom_title=Weekly Coding Time" height="150" />
-
-</td>
-</tr>
-</table>
-
-<!-- Profile Analytics -->
-<div style="margin-top: 25px;">
-
-**📊 Profile Analytics**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rklearns&theme=tokyonight" width="95%" />
-
-<table align="center" style="margin-top: 15px;">
+<!-- Main Stats Row -->
+<table>
 <tr>
 <td>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rklearns&theme=tokyonight" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rklearns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd" height="195" />
 
 </td>
 <td>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rklearns&theme=tokyonight" height="180" />
-
-</td>
-<td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rklearns&theme=tokyonight" height="180" />
-
-</td>
-<td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rklearns&theme=tokyonight&utc_offset=5.5" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rklearns&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&langs_count=8" height="195" />
 
 </td>
 </tr>
 </table>
 
-</div>
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rklearns&theme=tokyonight&hide_border=true&background=1a1b27&currStreakLabel=70a5fd&sideLabels=ffffff&currStreakNum=70a5fd&dates=ffffff&sideNums=70a5fd&fire=ff9500&ring=70a5fd" height="200" />
 
-<!-- Visitor Counter & Social Proof -->
-<div style="margin-top: 30px;">
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rklearns&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd" width="100%" height="300" />
 
+<!-- Trophies -->
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Rklearns&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
+
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rklearns&theme=tokyonight" width="100%" />
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rklearns&theme=tokyonight" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rklearns&theme=tokyonight" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Rklearns&color=70a5fd&style=for-the-badge&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/Rklearns?color=70a5fd&style=for-the-badge&label=Followers" />
-<img src="https://img.shields.io/github/stars/Rklearns?color=70a5fd&style=for-the-badge&label=Total+Stars" />
 
 </div>
-
-</div>
-
-
