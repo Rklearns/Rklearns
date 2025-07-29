@@ -29,30 +29,73 @@ cat skills → Technical Skills
 contact → How to Reach Me
 ```
 
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,tensorflow,pytorch,fastapi,mysql" alt="Tech Stack Row 1" />
+<style>
+  .tech-icons img {
+    width: 50px !important;
+    height: 50px !important;
+    margin: 8px 12px;
+    display: inline-block;
+  }
+  
+  .tech-icons {
+    line-height: 2.5;
+  }
+  
+  @media (max-width: 600px) {
+    .tech-icons img {
+      width: 40px !important;
+      height: 40px !important;
+      margin: 6px 8px;
+    }
+  }
+</style>
+
+<div class="tech-icons">
+
+<!-- Row 1: Programming Languages -->
+<img src="https://skillicons.dev/icons?i=python" alt="python" />
+<img src="https://skillicons.dev/icons?i=java" alt="java" />
+<img src="https://skillicons.dev/icons?i=c" alt="c" />
+<img src="https://skillicons.dev/icons?i=javascript" alt="javascript" />
+<img src="https://skillicons.dev/icons?i=html" alt="html" />
+<img src="https://skillicons.dev/icons?i=css" alt="css" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,docker,vercel" alt="Tech Stack Row 2" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy" />
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="seaborn" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" height="45" alt="streamlit" />
+<!-- Row 2: ML & Frameworks -->
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" />
+<img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" />
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" />
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="azure" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45" alt="visualstudio" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikitlearn" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="linkedin" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="sqlite" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45" alt="latex" />
+<!-- Row 3: Databases & Tools -->
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" />
+<img src="https://skillicons.dev/icons?i=git" alt="git" />
+<img src="https://skillicons.dev/icons?i=github" alt="github" />
+<img src="https://skillicons.dev/icons?i=vscode" alt="vscode" />
+
+<br>
+
+<!-- Row 4: Cloud & Additional Tools -->
+<img src="https://skillicons.dev/icons?i=docker" alt="docker" />
+<img src="https://skillicons.dev/icons?i=vercel" alt="vercel" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="streamlit" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" />
 
 </div>
+
+</div>
+
 
 
 ## 💻 Interactive Terminal Commands
