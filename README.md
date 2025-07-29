@@ -29,6 +29,32 @@ cat skills → Technical Skills
 contact → How to Reach Me
 ```
 
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,tensorflow,pytorch,fastapi,mysql" alt="Tech Stack Row 1" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,docker,vercel" alt="Tech Stack Row 2" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy" />
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="seaborn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" height="45" alt="streamlit" />
+
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="azure" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45" alt="visualstudio" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikitlearn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="linkedin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="sqlite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45" alt="latex" />
+
+</div>
+
+
 ## 💻 Interactive Terminal Commands
 
 
@@ -164,24 +190,7 @@ public class CompetitiveStats {
 </div>
 </details>
 
----
-## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,tensorflow,pytorch,fastapi,mysql,mongodb,git,github,vscode,docker,vercel" alt="Tech Stack" />
-
-<br><br>
-
-<!-- Additional icons not available in skillicons -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy" />
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="seaborn" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" height="45" alt="streamlit" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="azure" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45" alt="visual studio" />
-
-</div>
 
 
 <div align="center">
