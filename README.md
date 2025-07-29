@@ -201,18 +201,7 @@ public class CompetitiveStats {
 </div>
 </details>
 
-<div align="center">
 
-## 🐍 Snake Game
-*Challenge yourself while browsing my profile!*
-
-![Snake Game](https://github.com/Rklearns/Rklearns/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-**Current Status:** [ GAME LOADED ]  
-**Your Mission:** Survive and thrive! 🚀
-
-</div>
 <div align="center">
 
 ## 📊 GitHub Statistics & Analytics
