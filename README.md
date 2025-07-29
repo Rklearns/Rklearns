@@ -59,6 +59,9 @@ contact → How to Reach Me
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="linkedin" style="margin: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="sqlite" style="margin: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45" alt="latex" style="margin: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="jupyter" style="margin: 8px;" />
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="45" height="45" alt="colab" style="margin: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45" height="45" alt="kaggle" style="margin: 8px;" />
 
 </div>
 
