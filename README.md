@@ -188,13 +188,6 @@ public class CompetitiveStats {
 ```
 
 </div>
-</details>
-
-<a name="snake"></a>
-<details>
-<summary><kbd style="background: #ff6b35; color: white; padding: 8px 16px; border-radius: 6px; font-weight: bold;">./snake</kbd></summary>
-
-<div style="background: linear-gradient(135deg, #331100, #442200); border: 2px solid #ff6b35; border-radius: 10px; padding: 20px; margin: 15px 0;">
 
 <div align="center">
 
