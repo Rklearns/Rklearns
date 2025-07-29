@@ -204,17 +204,40 @@ public class CompetitiveStats {
 ![Snake Game](https://github.com/Rklearns/Rklearns/blob/output/github-contribution-grid-snake-dark.svg)
 
 
+## 📊 GitHub Statistics & Analytics
 
+<!-- Main Stats Row -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rklearns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_radius=15" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rklearns&show_icons=true&theme=dark&hide_border=true&bg_color=000&title_color=00ff41&text_color=fff&icon_color=00ff41" height="130" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1500&pause=2000&color=00FF41&center=true&vCenter=true&width=400&lines=session+complete;thanks+for+visiting;ready+to+collaborate!" alt="end" />
-
-<img src="https://komarev.com/ghpvc/?username=Rklearns&color=00ff41&style=flat" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rklearns&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_radius=15" height="180" />
 
 </div>
-```
+
+<!-- Streak Stats -->
+<div style="margin: 30px 0;">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rklearns&theme=tokyonight&hide_border=true&background=0d1117&currStreakLabel=00ff41&sideLabels=ffffff&currStreakNum=00ff41&dates=ffffff&sideNums=00ff41&fire=ff6b35&ring=00ff41&border_radius=15" height="160" />
+</div>
+
+<!-- Activity Graph -->
+<div style="margin: 30px 0;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rklearns&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&border_radius=15" width="100%" height="300" />
+</div>
+
+<!-- Trophies -->
+<div style="margin: 30px 0;">
+<h3 style="color: #00ff41;">🏆 GitHub Trophies</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=Rklearns&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title_color=00ff41&text_color=ffffff&icon_color=00ff41&bg_color=0d1117&border_color=00ff41" />
+</div>
+
+<!-- Profile Views Counter -->
+<div style="margin: 20px 0;">
+<img src="https://komarev.com/ghpvc/?username=Rklearns&color=00ff41&style=for-the-badge&label=Profile+Views" />
+</div>
+
+</div>
+
+
 
 
