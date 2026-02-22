@@ -15,7 +15,7 @@
 </div>
 
 ```bash
-> Coder | CP Enthusiast | ML | 9.15 CGPA
+> Coder | Research | ML | 9.12 CGPA
 > 1244 Pupil CF | 3-Star CC | 130+ LC
 > Mumbai -  Available -  Building Cool Stuff
 ```
