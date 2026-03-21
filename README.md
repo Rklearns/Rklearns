@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Rishit Kar — Problem Solver</h1>
+<h1>Rishit Kar  </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=initializing+terminal...;loading+portfolio...;rishit%24;whoami;ready+for+commands!" alt="terminal-init" />
 
@@ -14,11 +14,6 @@
 
 </div>
 
-```bash
-> Coder | Research | ML | 9.12 CGPA
-> 1244 Pupil CF | 3-Star CC | 130+ LC
-> Mumbai -  Available -  Building Cool Stuff
-```
 
 ```bash
 Navigate using the commands below (or just click the sections!):
