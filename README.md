@@ -14,7 +14,7 @@
 
 </div>
 
-## Key Achievements
+## Key Achievements and Experience
 
 - **CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems**  
   *ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems (MemAgents), Rio de Janeiro, Brazil*  
