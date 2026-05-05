@@ -23,8 +23,8 @@
 
 - **Research Intern , IIT Mandi (CAIR Lab)** *(June 2025 – July 2025)*  
   - Machine learning for propeller optimization  
-  - Focus on data-driven performance modeling  
-[
+  - Focus on data-driven performance modeling
+    
 - **Research Intern , IIT Patna**  
   - Multimodal AI for healthcare  
   - Temporal modeling and similarity-based graph neural networks  
@@ -33,7 +33,7 @@
   - 300+ problems solved (Codeforces, LeetCode)  
   - Strong foundation in data structures and algorithms  
 
-<div align="center">](https://openreview.net/forum?id=Tts94WVw40)
+<div align="center">
 
 ## 📊 GitHub Statistics & Analytics
 
