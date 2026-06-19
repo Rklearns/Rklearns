@@ -21,11 +21,11 @@
   - Authors: Pearl Mody, Mihir Panchal, Rishit Kar, Kiran Bhowmick, Ruhina Karani  
   - Links: [Paper](https://openreview.net/forum?id=Tts94WVw40) | [Talk](https://iclr.cc/virtual/2026/10021260)
 
-- **ML Intern , IIT Mandi (CAIR Lab)** *(June 2025 – July 2025)*  
+- **ML Intern , IIT Mandi (CAIR Lab, Onsite)** *(June 2025 – July 2025)*  
   - Machine learning for propeller optimization  
   - Focus on data-driven performance modeling
     
-- **AI Intern , IIT Patna**  
+- **AI Intern , IIT Patna (Remote)** (Sep 2025 – Jan 2026)
   - Multimodal AI for healthcare  
   - Temporal modeling and similarity-based graph neural networks  
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-## 📊 GitHub Statistics & Analytics
+##  GitHub Statistics & Analytics
 
 <!-- Main Stats Row -->
 <table>
