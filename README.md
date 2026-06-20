@@ -25,7 +25,7 @@
   - Machine learning for propeller optimization  
   - Focus on data-driven performance modeling
     
-- **AI Intern , IIT Patna (Remote)** (Sep 2025 – Jan 2026)
+- **AI Intern , IIT Patna (Remote)** *(Sep 2025 – Jan 2026)*
   - Multimodal AI for healthcare  
   - Temporal modeling and similarity-based graph neural networks  
 
