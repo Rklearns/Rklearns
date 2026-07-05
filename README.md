@@ -36,11 +36,6 @@
 <div align="center">
 
 ##  GitHub Statistics & Analytics
-<p align="center">
-  <a href="https://gitfut.com/Rklearns">
-    <img src="https://gitfut.com/Rklearns.png" alt="GitFut Card" width="250">
-  </a>
-</p>
 
 <!-- Main Stats Row -->
 <table>
