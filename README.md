@@ -33,16 +33,20 @@
   - 300+ problems solved (Codeforces, LeetCode)  
   - Strong foundation in data structures and algorithms
 
-[![My GitFut card](https://gitfut.com/YOUR_USERNAME.png)](https://gitfut.com/Rklearns)
-
 <div align="center">
 
 ##  GitHub Statistics & Analytics
+<p align="center">
+  <a href="https://gitfut.com/Rklearns">
+    <img src="https://gitfut.com/Rklearns.png" alt="GitFut Card" width="250">
+  </a>
+</p>
 
 <!-- Main Stats Row -->
 <table>
 <tr>
 <td>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rklearns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd" height="195" />
 
