@@ -30,7 +30,8 @@
   - Temporal modeling and similarity-based graph neural networks  
 
 - **Competitive Programming**  
-  - 300+ problems solved (Codeforces, LeetCode)  
+  - 350+ problems solved (Codeforces, LeetCode)
+  - Pupil @Codeforces  
   - Strong foundation in data structures and algorithms
 
 <div align="center">
