@@ -64,27 +64,6 @@
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rklearns&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd" width="100%" height="300" />
 
-<!-- Trophies -->
-###  GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Rklearns&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
-
-<!-- Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rklearns&theme=tokyonight" width="100%" />
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rklearns&theme=tokyonight" width="100%" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rklearns&theme=tokyonight" width="100%" />
-
-</td>
-</tr>
-</table>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Rklearns&color=70a5fd&style=for-the-badge&label=Profile+Views" />
