@@ -20,14 +20,17 @@
   *ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems (MemAgents), Rio de Janeiro, Brazil*  
   - Authors: Pearl Mody, Mihir Panchal, Rishit Kar, Kiran Bhowmick, Ruhina Karani  
   - Links: [Paper](https://openreview.net/forum?id=Tts94WVw40) | [Talk](https://iclr.cc/virtual/2026/10021260)
+ 
+
+- **ML Intern , IIT Patna (Remote)** *(Sep 2025 – Jan 2026)*
+  - Multimodal AI for healthcare  
+  - Temporal modeling and similarity-based graph neural networks  
+
 
 - **ML Intern , IIT Mandi (CAIR Lab, Onsite)** *(June 2025 – July 2025)*  
   - Machine learning for propeller optimization  
   - Focus on data-driven performance modeling
     
-- **AI Intern , IIT Patna (Remote)** *(Sep 2025 – Jan 2026)*
-  - Multimodal AI for healthcare  
-  - Temporal modeling and similarity-based graph neural networks  
 
 - **Competitive Programming**  
   - 350+ problems solved (Codeforces, LeetCode)
