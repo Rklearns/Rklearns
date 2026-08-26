@@ -37,7 +37,7 @@
     
 
 - **Competitive Programming**  
-  - 350+ problems solved (Codeforces, LeetCode)
+  - 400+ problems solved (Codeforces, LeetCode)
   - Pupil @Codeforces  
   - Strong foundation in data structures and algorithms
 
