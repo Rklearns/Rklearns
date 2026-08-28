@@ -43,30 +43,10 @@
 
 <div align="center">
 
-##  GitHub Statistics & Analytics
-
 <!-- Main Stats Row -->
 <table>
 <tr>
 <td>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rklearns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd" height="195" />
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rklearns&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&langs_count=8" height="195" />
-
-</td>
-</tr>
-</table>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rklearns&theme=tokyonight&hide_border=true&background=1a1b27&currStreakLabel=70a5fd&sideLabels=ffffff&currStreakNum=70a5fd&dates=ffffff&sideNums=70a5fd&fire=ff9500&ring=70a5fd" height="200" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rklearns&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd" width="100%" height="300" />
 
 
 <!-- Profile Views Counter -->
