@@ -22,8 +22,8 @@
   - Links: [Paper](https://openreview.net/forum?id=Tts94WVw40) | [Talk](https://iclr.cc/virtual/2026/10021260)
  
 
-- **Ai Intern , Intellect Design Arena** *(June 2026 - July 2026)*
-  - Built AI agents including Classifier, Validator, Extractor, and Underwriter for Loan Origination System on Purple Fabric platform, automating manual pipeline across multiple LLMs.
+- **Ai Intern , [Intellect Design Arena](https://www.intellectdesign.com)** *(June 2026 - July 2026)*
+  - Built AI agents including Classifier, Validator, Extractor, and Underwriter for Loan Origination System on [Purple Fabric](https://purplefabric.ai) platform, automating manual pipeline across multiple LLMs.
  
 
 - **ML Intern , IIT Patna (Remote)** *(Sep 2025 – Jan 2026)*
