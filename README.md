@@ -19,19 +19,19 @@
 - **CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems**  
   *ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems (MemAgents), Rio de Janeiro, Brazil*  
   - Authors: Pearl Mody, Mihir Panchal, Rishit Kar, Kiran Bhowmick, Ruhina Karani  
-  - Links: [Paper](https://openreview.net/forum?id=Tts94WVw40) | [Talk](https://iclr.cc/virtual/2026/10021260)
+  - Links: [Paper](https://openreview.net/forum?id=Tts94WVw40) | [Talk](https://iclr.cc/virtual/2026/10021260) | [Github](https://github.com/Rklearns/CraniMEM) | [Pypi](https://pypi.org/project/cranimem/)
  
 
 - **Ai Intern , [Intellect Design Arena](https://www.intellectdesign.com)** *(June 2026 - July 2026)*
   - Built AI agents including Classifier, Validator, Extractor, and Underwriter for Loan Origination System on [Purple Fabric](https://purplefabric.ai) platform, automating manual pipeline across multiple LLMs.
  
 
-- **ML Intern , IIT Patna (Remote)** *(Sep 2025 – Jan 2026)*
+- **ML Intern , [IIT Patna](https://www.iitp.ac.in) (Remote)** *(Sep 2025 – Jan 2026)*
   - Multimodal AI for healthcare  
   - Temporal modeling and similarity-based graph neural networks  
 
 
-- **ML Intern , IIT Mandi (CAIR Lab, Onsite)** *(June 2025 – July 2025)*  
+- **ML Intern , [IIT Mandi CAIR Lab](https://cair.iitmandi.ac.in) (Onsite)** *(June 2025 – July 2025)*  
   - Machine learning for propeller optimization  
   - Focus on data-driven performance modeling
     
