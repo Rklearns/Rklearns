@@ -10,6 +10,10 @@
 
   <!-- Any inner text can go here -->
 
+  <div align="center">
+  <img src="assets/harry-potter-broom.gif" width="640" alt="Harry Potter flying across the page on a broom" />
+</div>
+
 </div>
 
 </div>
